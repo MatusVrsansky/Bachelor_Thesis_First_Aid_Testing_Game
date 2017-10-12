@@ -1,0 +1,90 @@
+if(global.jazyk == "svk")
+{
+
+//randomize();
+//subor =  floor(random(2));
+
+//if(subor == 1)
+//{
+    var theJsonFile = file_text_open_read("questions_klikajuce_obrazky.json");
+//}
+
+//else
+//{
+   // global.theJsonFile = file_text_open_read("questions_klikajuce_obrazky_dva.json");
+//}
+
+var theData = "";
+
+while (!file_text_eof(theJsonFile))
+{
+    theData += file_text_read_string(theJsonFile);
+    file_text_readln(theJsonFile);
+}
+
+file_text_close(theJsonFile);
+
+global.theJsonMap = json_decode(theData);
+var theList = ds_map_find_value(global.theJsonMap, "default");
+global.total_questions_click_svk = ds_list_size(theList);      // kolko jeto komplet otazok
+
+
+
+global.Clicking_pictures_svk = ds_grid_create(global.total_questions_click_svk,3);
+
+var i;
+for (i = 0; i < global.total_questions_click_svk; i++)
+{
+    var theEntry = ds_list_find_value(theList, i);
+    
+    //global.Taliansko[# i, ID] = theEntry[? "ID"];
+    //global.Taliansko[# i, QUESTION_TYPE] = theEntry[? "QUESTION_TYPE"];
+    
+    global.Clicking_pictures_svk[# i, PICTURE_QUESTION] = theEntry[? "PICTURE_QUESTION"];
+    global.Clicking_pictures_svk[# i, NUMBER_QUESTION] = theEntry[? "NUMBER_QUESTION"];
+    global.Clicking_pictures_svk[# i, PICTURE_RIGHT_ANSWER] = theEntry[? "PICTURE_RIGHT_ANSWER"];
+    //global.Taliansko[# i, DATA_RIGHT] = theEntry[? "DATA_RIGHT"]; 
+}
+}
+
+else        // nacita sa subor po anglicky
+{
+
+var theJsonFile = file_text_open_read("questions_klikajuce_obrazky_ENG.json");
+
+var theData = "";
+
+while (!file_text_eof(theJsonFile))
+{
+    theData += file_text_read_string(theJsonFile);
+    file_text_readln(theJsonFile);
+}
+
+file_text_close(theJsonFile);
+
+global.theJsonMap = json_decode(theData);
+var theList = ds_map_find_value(global.theJsonMap, "default");
+global.total_questions_click_eng = ds_list_size(theList);      // kolko jeto komplet otazok
+
+
+
+global.Clicking_pictures_eng = ds_grid_create(global.total_questions_click_eng,3);
+
+for (var i = 0; i < global.total_questions_click_eng; i++)
+{
+    var theEntry = ds_list_find_value(theList, i);
+    
+    //global.Taliansko[# i, ID] = theEntry[? "ID"];
+    //global.Taliansko[# i, QUESTION_TYPE] = theEntry[? "QUESTION_TYPE"];
+    
+    global.Clicking_pictures_eng[# i, PICTURE_QUESTION_ENG] = theEntry[? "PICTURE_QUESTION_ENG"];
+    global.Clicking_pictures_eng[# i, NUMBER_QUESTION_ENG] = theEntry[? "NUMBER_QUESTION_ENG"];
+    global.Clicking_pictures_eng[# i, PICTURE_RIGHT_ANSWER_ENG] = theEntry[? "PICTURE_RIGHT_ANSWER_ENG"];
+    //global.Taliansko[# i, DATA_RIGHT] = theEntry[? "DATA_RIGHT"]; 
+}
+
+
+
+
+
+}

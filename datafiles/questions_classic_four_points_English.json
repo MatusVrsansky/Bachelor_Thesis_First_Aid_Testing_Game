@@ -1,0 +1,79 @@
+﻿[
+  {
+    "DATA_QUESTION_FOUR_POINTS_ENG":"What number do you call in case of first aid?",
+    "DATA_ANSWER_0_FOUR_POINTS_ENG":"155",
+    "DATA_ANSWER_1_FOUR_POINTS_ENG":"150",
+    "DATA_ANSWER_2_FOUR_POINTS_ENG":"112",
+    "RIGHT_ANSWER_FOUR_POINTS_ENG":3
+    },
+  {
+    "DATA_QUESTION_FOUR_POINTS_ENG":"What is the ratio of chest compressions with artificial respiration?",
+    "DATA_ANSWER_0_FOUR_POINTS_ENG":"30:2",
+    "DATA_ANSWER_1_FOUR_POINTS_ENG":"60:2",
+    "DATA_ANSWER_2_FOUR_POINTS_ENG":"3:4",
+    "RIGHT_ANSWER_FOUR_POINTS_ENG":1
+    },
+  {
+    "DATA_QUESTION_FOUR_POINTS_ENG":"What is the name organization providing first aid?",
+    "DATA_ANSWER_0_FOUR_POINTS_ENG":"blue cross",
+    "DATA_ANSWER_1_FOUR_POINTS_ENG":"red cross",
+    "DATA_ANSWER_2_FOUR_POINTS_ENG":"purple cross",
+    "RIGHT_ANSWER_FOUR_POINTS_ENG":2
+    },
+  {
+    "DATA_QUESTION_FOUR_POINTS_ENG":"Snake bites leg does not lift that:",
+    "DATA_ANSWER_0_FOUR_POINTS_ENG":"the victim defected\n from pain",
+    "DATA_ANSWER_1_FOUR_POINTS_ENG":"the victim didn´t received\n cramp in the leg",
+    "DATA_ANSWER_2_FOUR_POINTS_ENG":"bleeding do not flow\n to the heart",
+    "RIGHT_ANSWER_FOUR_POINTS_ENG":3
+    },	
+  {
+    "DATA_QUESTION_FOUR_POINTS_ENG":"First Aid in case of ankle sprain?",
+    "DATA_ANSWER_0_FOUR_POINTS_ENG":"subsoil leg + give\n cold compresses",
+    "DATA_ANSWER_1_FOUR_POINTS_ENG":"leg limber\n to a maximum",
+    "DATA_ANSWER_2_FOUR_POINTS_ENG":"we try to\n get up to painful leg",
+    "RIGHT_ANSWER_FOUR_POINTS_ENG":1
+    },
+  {
+    "DATA_QUESTION_FOUR_POINTS_ENG":"An immediate threat to life occurs in the absence of:",
+    "DATA_ANSWER_0_FOUR_POINTS_ENG":"water",
+    "DATA_ANSWER_1_FOUR_POINTS_ENG":"oxygen",
+    "DATA_ANSWER_2_FOUR_POINTS_ENG":"sugar",
+    "RIGHT_ANSWER_FOUR_POINTS_ENG":2
+    },
+  {
+    "DATA_QUESTION_FOUR_POINTS_ENG":"The States immediately life-threatening when injuries are:",
+    "DATA_ANSWER_0_FOUR_POINTS_ENG":"long bone fractures,\n pain",
+    "DATA_ANSWER_1_FOUR_POINTS_ENG":"unconsciousness, shortness\n of breath,\nsevere hemorrhage",
+    "DATA_ANSWER_2_FOUR_POINTS_ENG":"the loss of momentum of the\n lower limbs, confusion",
+    "RIGHT_ANSWER_FOUR_POINTS_ENG": 2
+    },
+  {
+    "DATA_QUESTION_FOUR_POINTS_ENG":"Among the main actions include life-saving:",
+    "DATA_ANSWER_0_FOUR_POINTS_ENG":"release of the Airways",
+    "DATA_ANSWER_1_FOUR_POINTS_ENG":"call the emergency\n medical service",
+    "DATA_ANSWER_2_FOUR_POINTS_ENG":"remove the foreign body\nwound",
+    "RIGHT_ANSWER_FOUR_POINTS_ENG": 1
+    },
+  {
+    "DATA_QUESTION_FOUR_POINTS_ENG": "One of the fundamental objectives of providing\n first aid to affected include: ",
+    "DATA_ANSWER_0_FOUR_POINTS_ENG":"to prevent further\n damage to health,",
+    "DATA_ANSWER_1_FOUR_POINTS_ENG":"find out the nearest\n relative of the affected",
+    "DATA_ANSWER_2_FOUR_POINTS_ENG":"find out in which hospital\nhas been treated",
+    "RIGHT_ANSWER_FOUR_POINTS_ENG": 1
+    },
+  {
+      "DATA_QUESTION_FOUR_POINTS_ENG": "Control of breathing in first aid the rescuer performs:",
+      "DATA_ANSWER_0_FOUR_POINTS_ENG": "of the ear, accompanied by\n the head of the affected",
+      "DATA_ANSWER_1_FOUR_POINTS_ENG": "eyes and sweating\n a mirror",
+      "DATA_ANSWER_2_FOUR_POINTS_ENG": "seeing, hearing, feeling",
+      "RIGHT_ANSWER_FOUR_POINTS_ENG": 3
+    },
+  {
+      "DATA_QUESTION_FOUR_POINTS_ENG": "A major cause of traffic accidents is:",
+      "DATA_ANSWER_0_FOUR_POINTS_ENG": "wrong doing of person",
+      "DATA_ANSWER_1_FOUR_POINTS_ENG": "technical condition of car",
+      "DATA_ANSWER_2_FOUR_POINTS_ENG": "age of drivers",
+      "RIGHT_ANSWER_FOUR_POINTS_ENG": 1
+    }
+]

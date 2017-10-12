@@ -1,0 +1,90 @@
+﻿[
+  {
+    "DATA_QUESTION_ENG":"What number do you call in case of first aid?",
+    "DATA_ANSWER_0_ENG":"155",
+    "DATA_ANSWER_1_ENG":"150",
+    "DATA_ANSWER_2_ENG":"112",
+    "DATA_ANSWER_3_ENG":"121",
+    "RIGHT_ANSWER_ENG":3
+    },
+  {
+    "DATA_QUESTION_ENG":"What is the ratio of chest compressions with artificial respiration?",
+    "DATA_ANSWER_0_ENG":"30:2",
+    "DATA_ANSWER_1_ENG":"60:2",
+    "DATA_ANSWER_2_ENG":"3:4",
+    "DATA_ANSWER_3_ENG":"40:20",
+    "RIGHT_ANSWER_ENG":1
+    },
+  {
+    "DATA_QUESTION_ENG":"What is the name organization providing first aid?",
+    "DATA_ANSWER_0_ENG":"blue cross",
+    "DATA_ANSWER_1_ENG":"red cross",
+    "DATA_ANSWER_2_ENG":"purple cross",
+    "DATA_ANSWER_3_ENG":"white cross",
+    "RIGHT_ANSWER_ENG":2
+    },
+  {
+    "DATA_QUESTION_ENG":"Snake bites leg does not lift that:",
+    "DATA_ANSWER_0_ENG":"the victim defected\n from pain",
+    "DATA_ANSWER_1_ENG":"the victim didn´t received\n cramp in the leg",
+    "DATA_ANSWER_2_ENG":"arm raise,\n so we practiced it",
+    "DATA_ANSWER_3_ENG":"bleeding do not flow\n to the heart",
+    "RIGHT_ANSWER_ENG":4
+    },	
+  {
+    "DATA_QUESTION_ENG":"First Aid in case of ankle sprain?",
+    "DATA_ANSWER_0_ENG":"subsoil leg + give\n cold compresses",
+    "DATA_ANSWER_1_ENG":"leg limber\n to a maximum",
+    "DATA_ANSWER_2_ENG":"we try to\n get up to painful leg",
+    "DATA_ANSWER_3_ENG":"foot sprain\n warm up in the opposite\n direction",
+    "RIGHT_ANSWER_ENG":1
+    },
+  {
+    "DATA_QUESTION_ENG":"An immediate threat to life occurs in the absence of:",
+    "DATA_ANSWER_0_ENG":"water",
+    "DATA_ANSWER_1_ENG":"oxygen",
+    "DATA_ANSWER_2_ENG":"sugar",
+    "DATA_ANSWER_3_ENG":"carbon dioxide",
+    "RIGHT_ANSWER_ENG":2
+    },
+  {
+    "DATA_QUESTION_ENG":"The States immediately life-threatening when injuries are:",
+    "DATA_ANSWER_0_ENG":"long bone fractures,\n pain",
+    "DATA_ANSWER_1_ENG":"unconsciousness, shortness\n of breath,\nsevere hemorrhage",
+    "DATA_ANSWER_2_ENG":"the loss of momentum of the\n lower limbs, confusion",
+    "DATA_ANSWER_3_ENG":"the lack of vitamins\n in the body",
+    "RIGHT_ANSWER_ENG": 2
+    },
+  {
+    "DATA_QUESTION_ENG":"Among the main actions include life-saving:",
+    "DATA_ANSWER_0_ENG":"release of the Airways",
+    "DATA_ANSWER_1_ENG":"call the emergency\n medical service",
+    "DATA_ANSWER_2_ENG":"remove the foreign body\nwound",
+    "DATA_ANSWER_3_ENG":"detection of mental\nstate affected",
+    "RIGHT_ANSWER_ENG": 1
+    },
+  {
+    "DATA_QUESTION_ENG":"One of the fundamental objectives of providing\n first aid to affected include: ",
+    "DATA_ANSWER_0_ENG":"to prevent further\n damage to health,",
+    "DATA_ANSWER_1_ENG":"find out the nearest\n relative of the affected",
+    "DATA_ANSWER_2_ENG":"find out in which hospital\nhas been treated",
+    "DATA_ANSWER_3_ENG":"find out what all has\n afflicted allergy",
+    "RIGHT_ANSWER_ENG": 1
+    },
+  {
+      "DATA_QUESTION_ENG": "Control of breathing in first aid the rescuer performs:",
+      "DATA_ANSWER_0_ENG": "of the ear, accompanied by\n the head of the affected",
+      "DATA_ANSWER_1_ENG": "eyes and sweating\n a mirror",
+      "DATA_ANSWER_2_ENG": "ear to the accompanying\n straight affected",
+      "DATA_ANSWER_3_ENG": "seeing, hearing, feeling",
+      "RIGHT_ANSWER_ENG": 4
+    },
+  {
+      "DATA_QUESTION_ENG": "A major cause of traffic accidents is:",
+      "DATA_ANSWER_0_ENG": "wrong doing of person",
+      "DATA_ANSWER_1_ENG": "technical condition of car",
+      "DATA_ANSWER_2_ENG": "age of drivers",
+      "DATA_ANSWER_3_ENG": "improper equipment of\n First Aid Kit",
+      "RIGHT_ANSWER_ENG": 1
+    }
+]

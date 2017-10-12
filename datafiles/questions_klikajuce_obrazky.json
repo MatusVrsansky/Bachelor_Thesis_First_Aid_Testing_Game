@@ -1,0 +1,52 @@
+﻿[
+  {
+    "PICTURE_QUESTION": "Označte na obrázku, v ktorom mieste budete\n stláčať hrudník pri zástave dýchania:",
+    "NUMBER_QUESTION": 1,
+    "PICTURE_RIGHT_ANSWER": 1
+    },
+  {
+    "PICTURE_QUESTION": "Ukážte na ilustrácií, ktorú nohu treba zranenému pokrčiť pri\nuložení do stabilizovanej polohy",
+    "NUMBER_QUESTION": 2,
+    "PICTURE_RIGHT_ANSWER": 2
+  },
+   {
+    "PICTURE_QUESTION": "Autonehoda, požiar,budovy,\nveterná smršť,lúpežné prepadnutie.\n\nKtoré číslo treba volať?",
+    "NUMBER_QUESTION": 3,
+    "PICTURE_RIGHT_ANSWER": 1
+  },
+   {
+    "PICTURE_QUESTION": "Ukážte, na ktoré miesto by ste zatlačili pri krvácaní z rany:",
+    "NUMBER_QUESTION": 4,
+    "PICTURE_RIGHT_ANSWER": 2
+  },
+  {
+    "PICTURE_QUESTION": "Mozgová mŕtvica,\npopáleniny,dusenie,\nmasívne krvácanie.\n\nKtoré číslo treba volať?",
+    "NUMBER_QUESTION": 5,
+    "PICTURE_RIGHT_ANSWER": 1
+  },
+ {
+    "PICTURE_QUESTION": "Na ktorom obrázku sa nachádza sterilný obväz?",
+    "NUMBER_QUESTION": 6,
+    "PICTURE_RIGHT_ANSWER": 1
+  },
+  {
+    "PICTURE_QUESTION": "Koľko stlačení sa vykonáva pred 2 záchrannými\n vdychmi pri oživovaní?",
+    "NUMBER_QUESTION": 7,
+    "PICTURE_RIGHT_ANSWER": 1
+  },
+ {
+    "PICTURE_QUESTION": "Aký prvý krok vykonať, ak pri Vás odpadne osoba?",
+    "NUMBER_QUESTION": 8,
+    "PICTURE_RIGHT_ANSWER": 2
+  },
+  {
+    "PICTURE_QUESTION": "Na ktorej časti ruky sa kontroluje tep?",
+    "NUMBER_QUESTION": 9,
+    "PICTURE_RIGHT_ANSWER": 1
+  },
+  {
+    "PICTURE_QUESTION": "Akú vodu aplikovať na popáleninu?",
+    "NUMBER_QUESTION": 10,
+    "PICTURE_RIGHT_ANSWER": 2
+  }
+]

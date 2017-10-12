@@ -1,0 +1,142 @@
+﻿[
+  {
+    "DATA_QUESTION_FOUR_POINTS_SVK":"Ake číslo voláte v prípade prvej pomoci?",
+    "DATA_ANSWER_0_FOUR_POINTS_SVK":"155",
+    "DATA_ANSWER_1_FOUR_POINTS_SVK":"150",
+    "DATA_ANSWER_2_FOUR_POINTS_SVK":"112",
+    "RIGHT_ANSWER_FOUR_POINTS_SVK":3
+    },
+  {
+    "DATA_QUESTION_FOUR_POINTS_SVK":"Aký je pomer stláčania hrudníka pri umelom dýchaní?",
+    "DATA_ANSWER_0_FOUR_POINTS_SVK":"30:2",
+    "DATA_ANSWER_1_FOUR_POINTS_SVK":"60:2",
+    "DATA_ANSWER_2_FOUR_POINTS_SVK":"40:20",
+    "RIGHT_ANSWER_FOUR_POINTS_SVK":1
+    },
+  {
+    "DATA_QUESTION_FOUR_POINTS_SVK":"Ako sa volá organizácia poskytujúca prvú pomoc?",
+    "DATA_ANSWER_0_FOUR_POINTS_SVK":"modrý kríž",
+    "DATA_ANSWER_1_FOUR_POINTS_SVK":"červený kríž",
+    "DATA_ANSWER_2_FOUR_POINTS_SVK":"fialový kríž",
+    "RIGHT_ANSWER_FOUR_POINTS_SVK":2
+    },
+  {
+    "DATA_QUESTION_FOUR_POINTS_SVK":"Pri uhryznutí hadom končatinu nedvíhame, aby:",
+    "DATA_ANSWER_0_FOUR_POINTS_SVK":"obeť neodpadla\n od bolesti",
+    "DATA_ANSWER_1_FOUR_POINTS_SVK":"obeť nedostala\n kŕč do nohy",
+    "DATA_ANSWER_2_FOUR_POINTS_SVK":"krvácanie neprúdilo\n smerom k srdcu",
+    "RIGHT_ANSWER_FOUR_POINTS_SVK":3
+    },
+  {
+    "DATA_QUESTION_FOUR_POINTS_SVK": "Ako podať prvú pomoc pri podvrtnutí členka?",
+    "DATA_ANSWER_0_FOUR_POINTS_SVK": "podložíme nohu + dáme\n studené obklady",
+    "DATA_ANSWER_1_FOUR_POINTS_SVK": "nohu rozhýbeme\n do maxima",
+    "DATA_ANSWER_2_FOUR_POINTS_SVK": "podvrtnutú nohu\n rozcvičíme do protismeru",
+    "RIGHT_ANSWER_FOUR_POINTS_SVK": 1
+  },
+  {
+    "DATA_QUESTION_FOUR_POINTS_SVK": "Bezprostredné ohrozenie života nastane pri nedostatku:",
+    "DATA_ANSWER_0_FOUR_POINTS_SVK": "vody",
+    "DATA_ANSWER_1_FOUR_POINTS_SVK": "kyslíka",
+    "DATA_ANSWER_2_FOUR_POINTS_SVK": "oxidu uhličitého",
+    "RIGHT_ANSWER_FOUR_POINTS_SVK": 2
+  },
+    {
+      "DATA_QUESTION_FOUR_POINTS_SVK": "Stavy bezprostredne ohrozujúce život pri úrazoch sú:",
+      "DATA_ANSWER_0_FOUR_POINTS_SVK": "zlomeniny dlhých kostí,\n bolesť",
+      "DATA_ANSWER_1_FOUR_POINTS_SVK": "bezvedomie, dusenie sa,\n závažné krvácanie",
+      "DATA_ANSWER_2_FOUR_POINTS_SVK": "nedostatok vitamínov v tele",
+      "RIGHT_ANSWER_FOUR_POINTS_SVK": 2
+    },
+    {
+      "DATA_QUESTION_FOUR_POINTS_SVK": "Medzi hlavné úkony zachraňujúce život patrí:",
+      "DATA_ANSWER_0_FOUR_POINTS_SVK": "uvoľnenie dýchacích ciest",
+      "DATA_ANSWER_1_FOUR_POINTS_SVK": "volanie záchrannej\n zdravotnej služby",
+      "DATA_ANSWER_2_FOUR_POINTS_SVK": "vybratie cudzieho telesa\n z rany",
+      "RIGHT_ANSWER_FOUR_POINTS_SVK": 1
+    },
+    {
+      "DATA_QUESTION_FOUR_POINTS_SVK": "Medzi základné ciele poskytnutia prvej pomoci postihnutému patrí:",
+      "DATA_ANSWER_0_FOUR_POINTS_SVK": "zabrániť ďalšiemu\n poškodeniu zdravia",
+      "DATA_ANSWER_1_FOUR_POINTS_SVK": "zistiť najbližšieho\n príbuzného postihnutého",
+      "DATA_ANSWER_2_FOUR_POINTS_SVK": " zistiť, v ktorej nemocnici\n bol už liečený",
+      "RIGHT_ANSWER_FOUR_POINTS_SVK": 1
+    },
+    {
+      "DATA_QUESTION_FOUR_POINTS_SVK": "Kontrolu dýchania pri prvej pomoci záchranca vykonáva:",
+      "DATA_ANSWER_0_FOUR_POINTS_SVK": "uchom priloženým pri\n hlavu postihnutého",
+      "DATA_ANSWER_1_FOUR_POINTS_SVK": "zrakom a zaroseným\n zrkadielkom",
+      "DATA_ANSWER_2_FOUR_POINTS_SVK": "zrakom, sluchom, pocitom",
+      "RIGHT_ANSWER_FOUR_POINTS_SVK": 3
+    },
+    {
+      "DATA_QUESTION_FOUR_POINTS_SVK": "Hlavnou príčinou vzniku dopravných nehôd je:",
+      "DATA_ANSWER_0_FOUR_POINTS_SVK": "nesprávne konanie človeka",
+      "DATA_ANSWER_1_FOUR_POINTS_SVK": "technický stav vozidla",
+      "DATA_ANSWER_2_FOUR_POINTS_SVK": "vek vodičov",
+      "RIGHT_ANSWER_FOUR_POINTS_SVK": 1
+    },
+    {
+      "DATA_QUESTION_FOUR_POINTS_SVK": "Tlakový obväz má zabezpečiť:",
+      "DATA_ANSWER_0_FOUR_POINTS_SVK": "sterilné krytie rany",
+      "DATA_ANSWER_1_FOUR_POINTS_SVK": "zastavenie krvácania",
+      "DATA_ANSWER_2_FOUR_POINTS_SVK": "fixáciu zdravej končatiny",
+      "RIGHT_ANSWER_FOUR_POINTS_SVK": 2
+    },
+    {
+      "DATA_QUESTION_FOUR_POINTS_SVK": "Správna poloha postihnutého pri krvácaní z nosa je:",
+      "DATA_ANSWER_0_FOUR_POINTS_SVK": "poloha v polosede",
+      "DATA_ANSWER_1_FOUR_POINTS_SVK": "poloha na chrbte s\n pokrčenými dolnými\n končatinami",
+      "DATA_ANSWER_2_FOUR_POINTS_SVK": "poloha v sede s\n predklonenou hlavou",
+      "RIGHT_ANSWER_FOUR_POINTS_SVK": 3
+    },
+    {
+      "DATA_QUESTION_FOUR_POINTS_SVK": "Prvá pomoc pri popáleninách pozostáva z:",
+      "DATA_ANSWER_0_FOUR_POINTS_SVK": "chladenia studenou vodou\n a sterilného prekrytia rany",
+      "DATA_ANSWER_1_FOUR_POINTS_SVK": "odstránenia odevu, aplikácie\n dezinfekčného prostriedku",
+      "DATA_ANSWER_2_FOUR_POINTS_SVK": "nanesenia hojivých mastí",
+      "RIGHT_ANSWER_FOUR_POINTS_SVK": 1
+    },
+     {
+      "DATA_QUESTION_FOUR_POINTS_SVK": "Úľavová poloha pri poranení brucha je:",
+      "DATA_ANSWER_0_FOUR_POINTS_SVK": "poloha na chrbte s rovnými\n dolnými končatinami",
+      "DATA_ANSWER_1_FOUR_POINTS_SVK": "poloha na chrbte s\n pokrčenými dolnými\n končatinam",
+      "DATA_ANSWER_2_FOUR_POINTS_SVK": "poloha  na chrbte s rovnými\n vyvýšenými končatinami",
+      "RIGHT_ANSWER_FOUR_POINTS_SVK": 2
+    },
+    {
+      "DATA_QUESTION_FOUR_POINTS_SVK": "Prvá pomoc pri zlomenine pozostáva zo:",
+      "DATA_ANSWER_0_FOUR_POINTS_SVK": "priloženia tlakového\n obväzu",
+      "DATA_ANSWER_1_FOUR_POINTS_SVK": "obnovenia porušenej\n hybnosti",
+      "DATA_ANSWER_2_FOUR_POINTS_SVK": "znehybnenia",
+      "RIGHT_ANSWER_FOUR_POINTS_SVK": 3
+    },
+  {
+    "DATA_QUESTION_FOUR_POINTS_SVK": "Pri poraneniach hlavy myslíte na možnosť poranenia:",
+    "DATA_ANSWER_0_FOUR_POINTS_SVK": "krčnej chrbtice",
+    "DATA_ANSWER_1_FOUR_POINTS_SVK": "ciev na krku",
+    "DATA_ANSWER_2_FOUR_POINTS_SVK": "hrudníka",
+    "RIGHT_ANSWER_FOUR_POINTS_SVK": 1
+  },
+  {
+    "DATA_QUESTION_FOUR_POINTS_SVK": "Kontrolu zastavenia krvného obehu vykonávame hmatom\n pulzu na:",
+    "DATA_ANSWER_0_FOUR_POINTS_SVK": "krku",
+    "DATA_ANSWER_1_FOUR_POINTS_SVK": "nohe",
+    "DATA_ANSWER_2_FOUR_POINTS_SVK": "ruke",
+    "RIGHT_ANSWER_FOUR_POINTS_SVK": 1
+  },
+  {
+    "DATA_QUESTION_FOUR_POINTS_SVK": "Aké sú základné životné funkcie?",
+    "DATA_ANSWER_0_FOUR_POINTS_SVK": "vedomie",
+    "DATA_ANSWER_1_FOUR_POINTS_SVK": "dýchanie, krvný obeh",
+    "DATA_ANSWER_2_FOUR_POINTS_SVK": "vedomie, dýchanie,\n krvný obeh",
+    "RIGHT_ANSWER_FOUR_POINTS_SVK": 3
+  },
+  {
+    "DATA_QUESTION_FOUR_POINTS_SVK": "Trojrohá šatka slúži najčastejšie na:",
+    "DATA_ANSWER_0_FOUR_POINTS_SVK": "na ošetrenie otvoreného\n poranenia hrudníka",
+    "DATA_ANSWER_1_FOUR_POINTS_SVK": "znehybnenie končatín",
+    "DATA_ANSWER_2_FOUR_POINTS_SVK": "na spevnenie krku",
+    "RIGHT_ANSWER_FOUR_POINTS_SVK": 2
+  }
+]

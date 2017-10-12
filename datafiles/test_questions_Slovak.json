@@ -1,0 +1,162 @@
+﻿[
+  {
+    "DATA_QUESTION":"Ake číslo voláte v prípade prvej pomoci?",
+    "DATA_ANSWER_0":"155",
+    "DATA_ANSWER_1":"150",
+    "DATA_ANSWER_2":"112",
+    "DATA_ANSWER_3":"121",
+    "RIGHT_ANSWER":3
+    },
+  {
+    "DATA_QUESTION":"Aký je pomer stláčania hrudníka pri umelom dýchaní?",
+    "DATA_ANSWER_0":"30:2",
+    "DATA_ANSWER_1":"60:2",
+    "DATA_ANSWER_2":"3:4",
+    "DATA_ANSWER_3":"40:20",
+    "RIGHT_ANSWER":1
+    },
+  {
+    "DATA_QUESTION":"Ako sa volá organizácia poskytujúca prvú pomoc?",
+    "DATA_ANSWER_0":"modrý kríž",
+    "DATA_ANSWER_1":"červený kríž",
+    "DATA_ANSWER_2":"fialový kríž",
+    "DATA_ANSWER_3":"biely kríž",
+    "RIGHT_ANSWER":2
+    },
+  {
+    "DATA_QUESTION":"Pri uhryznutí hadom končatinu nedvíhame, aby:",
+    "DATA_ANSWER_0":"obeť neodpadla\n od bolesti",
+    "DATA_ANSWER_1":"obeť nedostala\n kŕč do nohy",
+    "DATA_ANSWER_2":"končatinu dvíhame,\n aby sme ju rozcvičili",
+    "DATA_ANSWER_3":"krvácanie neprúdilo\n smerom k srdcu",
+    "RIGHT_ANSWER":4
+    },
+  {
+    "DATA_QUESTION": "Ako podať prvú pomoc pri podvrtnutí členka?",
+    "DATA_ANSWER_0": "podložíme nohu + dáme\n studené obklady",
+    "DATA_ANSWER_1": "nohu rozhýbeme\n do maxima",
+    "DATA_ANSWER_2": "snažíme sa na\n podvrnutú nohu vstať",
+    "DATA_ANSWER_3": "podvrtnutú nohu\n rozcvičíme do protismeru",
+    "RIGHT_ANSWER": 1
+  },
+  {
+    "DATA_QUESTION": "Bezprostredné ohrozenie života nastane pri nedostatku:",
+    "DATA_ANSWER_0": "vody",
+    "DATA_ANSWER_1": "kyslíka",
+    "DATA_ANSWER_2": "cukru",
+    "DATA_ANSWER_3": "oxidu uhličitého",
+    "RIGHT_ANSWER": 2
+  },
+    {
+      "DATA_QUESTION": "Stavy bezprostredne ohrozujúce život pri úrazoch sú:",
+      "DATA_ANSWER_0": "zlomeniny dlhých kostí,\n bolesť",
+      "DATA_ANSWER_1": "bezvedomie, dusenie sa,\n závažné krvácanie",
+      "DATA_ANSWER_2": "strata hybnosti dolných\n končatín, zmätenosť",
+      "DATA_ANSWER_3": "nedostatok vitamínov v tele",
+      "RIGHT_ANSWER": 2
+    },
+    {
+      "DATA_QUESTION": "Medzi hlavné úkony zachraňujúce život patrí:",
+      "DATA_ANSWER_0": "uvoľnenie dýchacích ciest",
+      "DATA_ANSWER_1": "volanie záchrannej\n zdravotnej služby",
+      "DATA_ANSWER_2": "vybratie cudzieho telesa\n z rany",
+      "DATA_ANSWER_3": "zistenie duševného\n stavu postihnutého",
+      "RIGHT_ANSWER": 1
+    },
+    {
+      "DATA_QUESTION": "Medzi základné ciele poskytnutia prvej pomoci postihnutému patrí:",
+      "DATA_ANSWER_0": "zabrániť ďalšiemu\n poškodeniu zdravia",
+      "DATA_ANSWER_1": "zistiť najbližšieho\n príbuzného postihnutého",
+      "DATA_ANSWER_2": " zistiť, v ktorej nemocnici\n bol už liečený",
+      "DATA_ANSWER_3": "zistiť, na čo všetko má\n postihnutý alergiu",
+      "RIGHT_ANSWER": 1
+    },
+    {
+      "DATA_QUESTION": "Kontrolu dýchania pri prvej pomoci záchranca vykonáva:",
+      "DATA_ANSWER_0": "uchom priloženým pri\n hlavu postihnutého",
+      "DATA_ANSWER_1": "zrakom a zaroseným\n zrkadielkom",
+      "DATA_ANSWER_2": "uchom priloženým na\n hruď postihnutého",
+      "DATA_ANSWER_3": "zrakom, sluchom, pocitom",
+      "RIGHT_ANSWER": 4
+    },
+    {
+      "DATA_QUESTION": "Hlavnou príčinou vzniku dopravných nehôd je:",
+      "DATA_ANSWER_0": "nesprávne konanie človeka",
+      "DATA_ANSWER_1": "technický stav vozidla",
+      "DATA_ANSWER_2": "vek vodičov",
+      "DATA_ANSWER_3": "nesprávne vybavenie\n lekárničky",
+      "RIGHT_ANSWER": 1
+    },
+    {
+      "DATA_QUESTION": "Tlakový obväz má zabezpečiť:",
+      "DATA_ANSWER_0": "sterilné krytie rany",
+      "DATA_ANSWER_1": "zastavenie krvácania",
+      "DATA_ANSWER_2": "fixáciu zdravej končatiny",
+      "DATA_ANSWER_3": "fixáciu cudzieho telesa\n v rane tlakom",
+      "RIGHT_ANSWER": 2
+    },
+    {
+      "DATA_QUESTION": "Správna poloha postihnutého pri krvácaní z nosa je:",
+      "DATA_ANSWER_0": "poloha v polosede",
+      "DATA_ANSWER_1": "poloha na chrbte s\n pokrčenými dolnými\n končatinami",
+      "DATA_ANSWER_2": "poloha v sede s\n predklonenou hlavou",
+      "DATA_ANSWER_3": "poloha v stoji",
+      "RIGHT_ANSWER": 3
+    },
+    {
+      "DATA_QUESTION": "Prvá pomoc pri popáleninách pozostáva z:",
+      "DATA_ANSWER_0": "chladenia studenou vodou\n a sterilného prekrytia rany",
+      "DATA_ANSWER_1": "odstránenia odevu, aplikácie\n dezinfekčného prostriedku",
+      "DATA_ANSWER_2": "nanesenia hojivých mastí",
+      "DATA_ANSWER_3": "pokrytia rany\n suchými šatami",
+      "RIGHT_ANSWER": 1
+    },
+     {
+      "DATA_QUESTION": "Úľavová poloha pri poranení brucha je:",
+      "DATA_ANSWER_0": "poloha na chrbte s rovnými\n dolnými končatinami",
+      "DATA_ANSWER_1": "poloha na chrbte s\n pokrčenými dolnými\n končatinam",
+      "DATA_ANSWER_2": "poloha  na chrbte s rovnými\n vyvýšenými končatinami",
+      "DATA_ANSWER_3": "poloha na boku",
+      "RIGHT_ANSWER": 2
+    },
+    {
+      "DATA_QUESTION": "Prvá pomoc pri zlomenine pozostáva zo:",
+      "DATA_ANSWER_0": "priloženia tlakového\n obväzu",
+      "DATA_ANSWER_1": "obnovenia porušenej\n hybnosti",
+      "DATA_ANSWER_2": "nápravy pri zmene tvaru",
+      "DATA_ANSWER_3": "znehybnenia",
+      "RIGHT_ANSWER": 4
+    },
+  {
+    "DATA_QUESTION": "Pri poraneniach hlavy myslíte na možnosť poranenia:",
+    "DATA_ANSWER_0": "krčnej chrbtice",
+    "DATA_ANSWER_1": "ciev na krku",
+    "DATA_ANSWER_2": "hrudníka",
+    "DATA_ANSWER_3": "ruky",
+    "RIGHT_ANSWER": 1
+  },
+  {
+    "DATA_QUESTION": "Kontrolu zastavenia krvného obehu vykonávame hmatom\n pulzu na:",
+    "DATA_ANSWER_0": "krku",
+    "DATA_ANSWER_1": "nohe",
+    "DATA_ANSWER_2": "ruke",
+    "DATA_ANSWER_3": "bruchu",
+    "RIGHT_ANSWER": 1
+  },
+  {
+    "DATA_QUESTION": "Aké sú základné životné funkcie?",
+    "DATA_ANSWER_0": "vedomie",
+    "DATA_ANSWER_1": "dýchanie, krvný obeh",
+    "DATA_ANSWER_2": "vedomie, dýchanie,\n krvný obeh",
+    "DATA_ANSWER_3": "pohyb rúk",
+    "RIGHT_ANSWER": 3
+  },
+  {
+    "DATA_QUESTION": "Trojrohá šatka slúži najčastejšie na:",
+    "DATA_ANSWER_0": "na ošetrenie otvoreného\n poranenia hrudníka",
+    "DATA_ANSWER_1": "znehybnenie končatín",
+    "DATA_ANSWER_2": "na sterilné krytie\n popláleniny",
+    "DATA_ANSWER_3": "na spevnenie krku",
+    "RIGHT_ANSWER": 2
+  }
+]

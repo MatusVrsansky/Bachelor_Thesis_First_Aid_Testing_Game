@@ -1,0 +1,68 @@
+﻿[
+  {
+    "DATA_QUESTION_THREE_POINTS_ENG":"What number do you call in case of first aid?",
+    "DATA_ANSWER_0_THREE_POINTS_ENG":"155",
+    "DATA_ANSWER_1_THREE_POINTS_ENG":"112",
+    "RIGHT_ANSWER_THREE_POINTS_ENG":2
+    },
+  {
+    "DATA_QUESTION_THREE_POINTS_ENG":"What is the ratio of chest compressions with artificial respiration?",
+    "DATA_ANSWER_0_THREE_POINTS_ENG":"30:2",
+    "DATA_ANSWER_1_THREE_POINTS_ENG":"60:2",
+    "RIGHT_ANSWER_THREE_POINTS_ENG":1
+    },
+  {
+    "DATA_QUESTION_THREE_POINTS_ENG":"What is the name organization providing first aid?",
+    "DATA_ANSWER_0_THREE_POINTS_ENG":"blue cross",
+    "DATA_ANSWER_1_THREE_POINTS_ENG":"red cross",
+    "RIGHT_ANSWER_THREE_POINTS_ENG":2
+    },
+  {
+    "DATA_QUESTION_THREE_POINTS_ENG":"Snake bites leg does not lift that:",
+    "DATA_ANSWER_0_THREE_POINTS_ENG":"bleeding do not flow\n to the heart",
+    "DATA_ANSWER_1_THREE_POINTS_ENG":"the victim didn´t received\n cramp in the leg",
+    "RIGHT_ANSWER_THREE_POINTS_ENG":1
+    },	
+  {
+    "DATA_QUESTION_THREE_POINTS_ENG":"First Aid in case of ankle sprain?",
+    "DATA_ANSWER_0_THREE_POINTS_ENG":"subsoil leg + give\n cold compresses",
+    "DATA_ANSWER_1_THREE_POINTS_ENG":"leg limber\n to a maximum",
+    "RIGHT_ANSWER_THREE_POINTS_ENG":1
+    },
+  {
+    "DATA_QUESTION_THREE_POINTS_ENG":"An immediate threat to life occurs in the absence of:",
+    "DATA_ANSWER_0_THREE_POINTS_ENG":"water",
+    "DATA_ANSWER_1_THREE_POINTS_ENG":"oxygen",
+    "RIGHT_ANSWER_THREE_POINTS_ENG":2
+    },
+  {
+    "DATA_QUESTION_THREE_POINTS_ENG":"The States immediately life-threatening when injuries are:",
+    "DATA_ANSWER_0_THREE_POINTS_ENG":"long bone fractures,\n pain",
+    "DATA_ANSWER_1_THREE_POINTS_ENG":"unconsciousness, shortness\n of breath,\nsevere hemorrhage",
+    "RIGHT_ANSWER_THREE_POINTS_ENG": 2
+    },
+  {
+    "DATA_QUESTION_THREE_POINTS_ENG":"Among the main actions include life-saving:",
+    "DATA_ANSWER_0_THREE_POINTS_ENG":"release of the Airways",
+    "DATA_ANSWER_1_THREE_POINTS_ENG":"call the emergency\n medical service",
+    "RIGHT_ANSWER_THREE_POINTS_ENG": 1
+    },
+  {
+    "DATA_QUESTION_THREE_POINTS_ENG": "One of the fundamental objectives of providing\n first aid to affected include: ",
+    "DATA_ANSWER_0_THREE_POINTS_ENG":"to prevent further\n damage to health",
+    "DATA_ANSWER_1_THREE_POINTS_ENG":"find out the nearest\n relative of the affected",
+    "RIGHT_ANSWER_THREE_POINTS_ENG": 1
+    },
+  {
+      "DATA_QUESTION_THREE_POINTS_ENG": "Control of breathing in first aid the rescuer performs:",
+      "DATA_ANSWER_0_THREE_POINTS_ENG": "of the ear, accompanied by\n the head of the affected",
+      "DATA_ANSWER_1_THREE_POINTS_ENG": "seeing, hearing, feeling",
+      "RIGHT_ANSWER_THREE_POINTS_ENG": 2
+    },
+ {
+      "DATA_QUESTION_THREE_POINTS_ENG": "A major cause of traffic accidents is:",
+      "DATA_ANSWER_0_THREE_POINTS_ENG": "wrong doing of person",
+      "DATA_ANSWER_1_THREE_POINTS_ENG": "technical condition of car",
+      "RIGHT_ANSWER_THREE_POINTS_ENG": 1
+    }
+]

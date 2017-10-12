@@ -1,0 +1,53 @@
+﻿[
+  {
+    "PICTURE_QUESTION_ENG":"Select the image, at which point you will squeeze\n the chest when breathing stops:",
+    "NUMBER_QUESTION_ENG":1,
+    "PICTURE_RIGHT_ANSWER_ENG":1
+    },
+  {
+    "PICTURE_QUESTION_ENG": "Show the right image, which should be injured leg\n crumple when depositing the recovery positiony",
+    "NUMBER_QUESTION_ENG": 2,
+    "PICTURE_RIGHT_ANSWER_ENG": 2
+  },
+   {
+    "PICTURE_QUESTION_ENG": "Car accident, fire, building,\n windstorm, robbery.\n\n We call that number?",
+    "NUMBER_QUESTION_ENG": 3,
+    "PICTURE_RIGHT_ANSWER_ENG": 1
+  },
+  {
+    "PICTURE_QUESTION_ENG": "Point, at which point you would push for bleeding wound:",
+    "NUMBER_QUESTION_ENG": 4,
+    "PICTURE_RIGHT_ANSWER_ENG": 2
+  },
+  {
+    "PICTURE_QUESTION_ENG": "Stroke, burns,\nchoking, massive bleeding.\n What no need to call?",
+    "NUMBER_QUESTION_ENG": 5,
+    "PICTURE_RIGHT_ANSWER_ENG": 1
+  },
+  {
+    "PICTURE_QUESTION_ENG": "Where image is sterile dressing?",
+    "NUMBER_QUESTION_ENG": 6,
+    "PICTURE_RIGHT_ANSWER_ENG": 1
+  },
+  {
+    "PICTURE_QUESTION_ENG": "How much compression is done before two\n rescue breaths at a revival??",
+    "NUMBER_QUESTION_ENG": 7,
+    "PICTURE_RIGHT_ANSWER_ENG": 1
+  },
+  {
+    "PICTURE_QUESTION_ENG": "After which the first resort,\n if a person falls close to you?",
+    "NUMBER_QUESTION_ENG": 8,
+    "PICTURE_RIGHT_ANSWER_ENG": 2
+  },
+  {
+    "PICTURE_QUESTION_ENG": "To which part of the hand checking heartbeat?",
+    "NUMBER_QUESTION_ENG": 9,
+    "PICTURE_RIGHT_ANSWER_ENG": 1
+  },
+  {
+    "PICTURE_QUESTION_ENG": "What water applied to the affected area?",
+    "NUMBER_QUESTION_ENG": 10,
+    "PICTURE_RIGHT_ANSWER_ENG": 2
+  }
+]
+
